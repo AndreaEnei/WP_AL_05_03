@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: 'Helvetica';
+}
+
+p {
+    border: 3px solid hotpink;
+    background-color: lavenderblush;
+    display: inline-block;
+    text-align: left;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.lightblu {
+    background-color: lightblue;
+}
+
+#ric {
+    background-color: red;
+}
